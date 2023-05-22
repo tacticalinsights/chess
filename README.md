@@ -7,7 +7,7 @@ This project is a Chess Program with a Puzzle Feed, designed to provide an inter
 
 2. **Puzzle Feed**: Solve chess puzzles to improve your chess skills. This feature provides a collection of curated chess puzzles of varying difficulties. Players can test their tactical abilities, learn different chess strategies, and enhance their problem-solving skills through a series of challenging puzzles.
 
-The Chess Program with Puzzle Feed offers a user-friendly interface, intuitive gameplay, and a puzzle feed that continually provides new challenges and learning opportunities.
+This program offers a user-friendly interface, intuitive gameplay, and a puzzle feed that continually provides new challenges and learning opportunities.
 
 ## Features
 
