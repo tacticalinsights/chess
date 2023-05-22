@@ -18,6 +18,6 @@ Continuous Supply of New Puzzles
 
 ## Usage
 
-Download all the files in this google drive folder: https://drive.google.com/drive/folders/1nWthTefxOHjWL8pTfBJ7G7tE94uXhedi?usp=sharing. This contains images of pieces and the board required for gameplay and datasets needed for the puzzle feed.
-Download the repository and place all the files above in the same folder as the two provided scripts.
-Run through 
+1. Download all the files in this google drive folder: https://drive.google.com/drive/folders/1nWthTefxOHjWL8pTfBJ7G7tE94uXhedi?usp=sharing. This contains images of pieces and the board required for gameplay and datasets needed for the puzzle feed.
+2. Download the repository and place all the files above in the same folder as the two provided scripts.
+3. Run all cells in the notebook titled 'script.ipynb' upto cell 15. Then, comment out either 'game()' or 'puzzle_feed()' and run cell 16 to start solving puzzles or playing a game, respectively.
