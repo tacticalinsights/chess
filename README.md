@@ -29,8 +29,6 @@ This program offers a user-friendly interface, intuitive gameplay, and a puzzle 
 - PyGame
 - pandas
 
-Make sure to have these dependencies installed before running the chess program and puzzles.
-
 ## Credits
 
 - Chess puzzles sourced from [Lichess](https://database.lichess.org/).
