@@ -11,13 +11,27 @@ The Chess Program with Puzzle Feed offers a user-friendly interface, intuitive g
 
 ## Features
 
-Valid Move Highlighting
-Drag and Drop Functionality
-Puzzle Difficulty Customization
-Continuous Supply of New Puzzles
+- Valid Move Highlighting
+- Drag and Drop Functionality
+- Puzzle Difficulty Customization
+- Continuous Supply of New Puzzles
 
 ## Usage
 
-1. Download all the files in this google drive folder: https://drive.google.com/drive/folders/1nWthTefxOHjWL8pTfBJ7G7tE94uXhedi?usp=sharing. This contains images of pieces and the board required for gameplay and datasets needed for the puzzle feed.
+1. Download all the files in this [google drive folder](https://drive.google.com/drive/folders/1nWthTefxOHjWL8pTfBJ7G7tE94uXhedi?usp=sharing). This contains images of pieces and the board required for gameplay and datasets needed for the puzzle feed.
 2. Download the repository and place all the files above in the same folder as the two provided scripts.
 3. Run all cells in the notebook titled 'script.ipynb' upto cell 15. Then, comment out either 'game()' or 'puzzle_feed()' and run cell 16 to start solving puzzles or playing a game, respectively.
+
+## Requirements
+
+- Jupyter
+- Python 3.x
+- PyGame
+- pandas
+
+Make sure to have these dependencies installed before running the chess program and puzzles.
+
+## Credits
+
+- Chess puzzles sourced from [Lichess](https://database.lichess.org/).
+- Images used in the chess program obtained from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces).
