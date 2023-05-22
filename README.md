@@ -1,4 +1,23 @@
-# Chess Game + Puzzle Feed
+# Chess Program with Puzzle Feed
 
-Comes with GUI with valid-move highlighting and piece drag and drop functionality.
-Includes a puzzle mode (infinite puzzle feed).
+## Description
+This project is a Chess Program with a Puzzle Feed, designed to provide an interactive and engaging chess experience for players of all skill levels. The program offers two main functionalities:
+
+1. **Chess Game**: Play chess against a another human player. This program allows users to enjoy the classic game of chess, where they can make moves, capture pieces, and strategize their way to victory.
+
+2. **Puzzle Feed**: Solve chess puzzles to improve your chess skills. This feature provides a collection of curated chess puzzles of varying difficulties. Players can test their tactical abilities, learn different chess strategies, and enhance their problem-solving skills through a series of challenging puzzles.
+
+The Chess Program with Puzzle Feed offers a user-friendly interface, intuitive gameplay, and a puzzle feed that continually provides new challenges and learning opportunities.
+
+## Features
+
+Valid Move Highlighting
+Drag and Drop Functionality
+Puzzle Difficulty Customization
+Continuous Supply of New Puzzles
+
+## Usage
+
+Download all the files in this google drive folder: https://drive.google.com/drive/folders/1nWthTefxOHjWL8pTfBJ7G7tE94uXhedi?usp=sharing. This contains images of pieces and the board required for gameplay and datasets needed for the puzzle feed.
+Download the repository and place all the files above in the same folder as the two provided scripts.
+Run through 
